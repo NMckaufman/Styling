@@ -1,0 +1,17 @@
+h1 {
+    font-family:sans-serif; 
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
+h3 {
+    background-color: skyblue;
+    color: indigo;
+    text-align: right;
+    text-decoration: underline;
+}
